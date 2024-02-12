@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 
 I am a Computer Science graduate student at the University of Massachusetts Amherst. In the summer of 2023, I honed my skills as a Software Engineering Intern at Railinc Corp. I hold an undergraduate degree from the National Institute of Technology, Tiruchirappalli, with a minor in Computer Science and Engineering, graduating in 2020.
 
-I have 2 years of industry experience developing scalable and reusable micro frontend applications using Angular and single-spa at Citi as well as a prior internship experience as a Java developer. During this time I have developed proficiency in a diverse range of technologies, including Angular, React, Spring, C++, Python, HTML/CSS, Java, Git and MySQL. I was awarded the 'Takes Ownership' and 'Succeeds Together' awards at Citi and both my employers have recommended me on LinkedIn for my work. My dedication to the field extends beyond my work, as I regularly practice competitive programming on online platforms. I also have my work on Reinforcement Learning control of ball and beam system published at the IEEE ICIIS 2020 conference. 
-
-I am currently seeking opportunities in Software Development/Engineering, with my availability beginning in May 2024. My background and demonstrated experience in the field make me an asset to any team or project.
+I have 2 years of industry experience developing scalable and reusable micro frontend applications using Angular and single-spa at Citi as well as a prior internship experience as a Java developer. During this time I have developed proficiency in a diverse range of technologies, including Angular, React, Spring, C++, Python, HTML/CSS, Java, Git and MySQL. I was awarded the 'Takes Ownership' and 'Succeeds Together' awards at Citi. My dedication to the field extends beyond my work, as I regularly practice competitive programming on online platforms. I also have my work on Reinforcement Learning control of ball and beam system published at the IEEE ICIIS 2020 conference. 
 
 ### Tech Stack  💻
 ---
