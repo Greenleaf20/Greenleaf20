@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Archana! 
 
 <!--
 **Greenleaf20/Greenleaf20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,10 +22,6 @@ I am a Computer Science graduate student at the University of Massachusetts Amhe
 
 I have 2 years of industry experience developing scalable and reusable micro frontend applications using Angular and single-spa at Citi as well as a prior internship experience as a Java developer. During this time I have developed proficiency in a diverse range of technologies, including Angular, React, Spring, C++, Python, HTML/CSS, Java, Git and MySQL. I was awarded the 'Takes Ownership' and 'Succeeds Together' awards at Citi and both my employers have recommended me on LinkedIn for my work. My dedication to the field extends beyond my work, as I regularly practice competitive programming on online platforms. I also have my work on Reinforcement Learning control of ball and beam system published at the IEEE ICIIS 2020 conference. 
 
-Beyond technology, I'm a strong advocate of the #AdoptDontShop movement and have spent eight years caring for sick and injured animals. During my undergraduate years, I was actively involved in a student-run volunteer group dedicated to feeding and providing healthcare to stray animals on our campus.
-
-In my leisure time, I indulge in fiction, with thrillers being my preferred genre. Additionally, I have dedicated six years to professional training in Carnatic music, demonstrating my commitment to excellence in various facets of life.
-
 I am currently seeking opportunities in Software Development/Engineering, with my availability beginning in May 2024. My background and demonstrated experience in the field make me an asset to any team or project.
 
 ### Tech Stack  💻
@@ -46,6 +42,7 @@ I am currently seeking opportunities in Software Development/Engineering, with m
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![single-spa](https://img.shields.io/badge/single--spa-pink?logoColor=pink)
 ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
