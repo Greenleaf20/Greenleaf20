@@ -22,6 +22,8 @@ I am a Computer Science graduate student at the University of Massachusetts Amhe
 
 I have 2 years of industry experience developing scalable and reusable micro frontend applications using Angular and single-spa at Citi as well as a prior internship experience as a Java developer. During this time I have developed proficiency in a diverse range of technologies, including Angular, React, Spring, C++, Python, HTML/CSS, Java, Git and MySQL. I was awarded the 'Takes Ownership' and 'Succeeds Together' awards at Citi. My dedication to the field extends beyond my work, as I regularly practice competitive programming on online platforms. I also have my work on Reinforcement Learning control of ball and beam system published at the IEEE ICIIS 2020 conference. 
 
+
+<!--
 ### Tech Stack  💻
 ---
 #### Languages
@@ -55,3 +57,4 @@ I have 2 years of industry experience developing scalable and reusable micro fro
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+-->
